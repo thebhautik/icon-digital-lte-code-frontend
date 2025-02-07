@@ -1,1 +1,1 @@
-# icon-digital-lte-code-frontend
+# icon-digital
